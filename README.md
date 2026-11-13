@@ -1,16 +1,31 @@
-## Hi there 👋
+# 你好，我是 czxnicky 👋
 
-<!--
-**czxnicky/czxnicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 在持续学习中构建，在真实项目里成长。
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我关注技术、产品与个人成长，喜欢把想法变成可运行、可验证的作品。
+
+- 🔭 正在探索：把想法转化为实用的项目与工具
+- 🌱 持续积累：编程实践、项目复盘与技术笔记
+- 🤝 期待交流：开源、协作与有意思的问题
+
+## 项目
+
+这里会逐步整理我的代表项目、实验作品与学习成果。
+
+> 🚧 项目档案正在建设中，敬请期待。
+
+## 当前关注
+
+- **编程实践**：用代码解决真实问题
+- **产品思维**：从需求出发，打磨可用体验
+- **知识管理**：记录过程，沉淀可复用的方法
+
+## 联系我
+
+- GitHub：[@czxnicky](https://github.com/czxnicky)
+
+---
+
+<p align="center">保持好奇，持续创造。</p>
